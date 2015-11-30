@@ -1,0 +1,19 @@
+imgs\slb_logo.png&&Quem é o melhor marcador de sempre do Benfica?&&Eusébio&&Óscar Cardozo&&Nuno Gomes&&José Águas&&0
+imgs\img1.png&&Quem foi o primeiro Rei de Portugal?&&D. Afonso Henriques&&Napoleão&&Lady Gaga&&Eusebio&&0
+imgs\40anos.png&&A Guerra dos Baloes do DETI é entre:&&CT TSI vs ET&&ET vc CT&&CT ET vs TSI&&ET TSI vs CT&&0
+imgs\pablo_picasso.png&&Qual era o primeiro nome de Picasso?&&Pablo&&Tito&&Eugenio&&Diego&&0
+imgs\record.png&&Qual é o álbum mais vendido do mundo?&&Thriller&&Back in Black&&Nevermind&&Metallica&&0
+imgs\img0.png&&Qual foi o Cognome do sexto Rei de Portugal?&&O Lavrador&&O Desejado&&O Africano&&O Povoador&&1
+imgs\k.png&&Qual o símbulo do Potássio?&&K&&Po&&P&&Pt&&1
+imgs\universe.png&&Qual é o elemento mais abundante no Universo?&&Hidrogénio&&Oxigénio&&Ferro&&Ouro&&1
+imgs\precious.png&&Qual destes materiais é o mais precioso?&&Platina&&Ouro&&Prata&&Bronze&&1
+imgs\Beira-Mar.png&&Como se chama a claque do Beira-Mar?&&Auri-Negros&&Milhafres&&Pac Mans&&Beira Beira&&1
+imgs\Batalha_de_Aljubarrota.png&&Qual a data da Batalha de Aljubarrota?&&1385&&1445&&1259&&1301&&2
+imgs\trex.png&&Tyrannosaurus Rex significa?&&Lagarto Tirano Rei&&Dinossauro tirano rei&&Rei dos lagartos&&Tirano dos Répteis&&2
+imgs\pessoa.png&&Fernando Pessoa desdobrava-se em quantas entidades literárias?&&4&&3&&2&&1&&2
+imgs\raiox.png&&Quem descobriu o raio-x?&&Wilhelm Conrad Roentgen&&Hermann von Helmholtz&&Fernando Sanford&&Nikola Tesla&&2
+imgs\Laurêncio.png&&Qual é o número atómico do laurêncio?&&103&&99&&40&&15&&2
+imgs\IMDB.png&&Qual é o filme atualmente com melhor rating site IMDB?&&Condenados de Shawshank&&O Padrinho&&Inside the Wild&&Pulp Fiction&&1
+imgs\Oscar.png&&Qual é o filme com mais óscares vencidos?&&Titanic&&Ben Hur&&Pulp Fiction&&All About Eve&&2
+imgs\Turing.png&&Quem venceu o Prémio Turing em 1972?&&Edsger W. Dijkstra&&Donald E. Knuth&&Dennis Ritchie&&Alan Kay&&2
+imgs\money.png&&Quem é atualmente o ator mais bem pago mundialmente?&&Robert Downey Jr.&&Neil Patrick Harris&&John Travolta&&Dwayne Johnson&&1
